@@ -12,12 +12,14 @@ This project is a static replica of Amazon's homepage, built using HTML and CSS.
 
 ## Installation & Usage
 1. Clone the repository:
+   ```sh
    git clone https://github.com/your-username/amazon-homepage-clone.git
-2. Navigate to the project folder:
+   ```
+3. Navigate to the project folder:
    ```sh
    cd amazon-homepage-clone
    ```
-3. Open `index.html` in your browser.
+4. Open `index.html` in your browser.
 
 ## Future Improvements
 - Add JavaScript for interactive elements
